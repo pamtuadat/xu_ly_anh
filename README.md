@@ -1,6 +1,11 @@
 # xu_ly_anh
+**Tiểu luận 1:** Project ứng dụng phép biển đổi ảnh gamma(hàm mũ), log:
++ làm mịn ảnh
++ nhận diện biển số xe (có thêm Canny, morphological). Lưu ý: chỉ nhận diện được bản số xe trực diện và không bị nhiễu, đặc biệt đây không phải mô hình máy học hay học sâu, chỉ áp dụng cho môn học Image Processing trên lớp.
 
-**iểu luận 3:** Một bài tập nhỏ ứng dụng xử lý ảnh
+
+
+**Tiểu luận 3:** Một bài tập nhỏ ứng dụng xử lý ảnh
 Kiến thức: phân đoạn ảnh, xác định đối tượng bằng hàm connected Components và Contour
 Thư viện sử dụng: cv2(OpenCV), matpyplot
 Ứng dụng: 
